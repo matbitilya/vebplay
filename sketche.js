@@ -13,7 +13,7 @@ let a = 0;
 
 
 function setup() {
-    createCanvas(1499, 700);
+    createCanvas(1500, 700);
     x = width/2;
 }
 
